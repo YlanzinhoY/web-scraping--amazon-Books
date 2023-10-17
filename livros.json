@@ -1,0 +1,362 @@
+[
+ {
+ "titulo": "Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios",
+ "autor": "Cole Nussbaumer Knaflic",
+ "preco": "R$ 79,63",
+ "link": "amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=zg_mw_g_7842670011_sccl_1/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Código limpo: habilidades práticas do Agile software",
+ "autor": "Robert C. Martin",
+ "preco": "R$ 100,26",
+ "link": "amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=zg_mw_g_7842670011_sccl_2/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Data science do zero: primeiras regras com o Python",
+ "autor": "Joel Grus",
+ "preco": "R$ 61,52",
+ "link": "amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=zg_mw_g_7842670011_sccl_3/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Estatística prática para cientistas de dados: 50 conceitos essenciaisAndrew Bruce",
+ "autor": "Andrew Bruce",
+ "preco": "R$ 87,89",
+ "link": "amazon.com.br/Estat%C3%ADstica-Pr%C3%A1tica-Para-Cientistas-Dados/dp/855080603X/ref=zg_mw_g_7842670011_sccl_4/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Python Fluente: Programação Clara, Concisa e Eficaz",
+ "autor": "Luciano Ramalho",
+ "preco": "R$ 159,00",
+ "link": "amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=zg_mw_g_7842670011_sccl_5/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Scrum e Métodos Ágeis: Um Guia Prático",
+ "autor": "Luiz Duarte",
+ "preco": "R$ 12,99",
+ "link": "amazon.com.br/Scrum-M%C3%A9todos-%C3%81geis-Guia-Pr%C3%A1tico-ebook/dp/B01LBSPIAG/ref=zg_mw_g_7842670011_sccl_6/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Domain-driven design: atacando as complexidades no coração do software",
+ "autor": "Eric Evans",
+ "preco": "R$ 100,75",
+ "link": "amazon.com.br/Domain-driven-design-atacando-complexidades-software/dp/8550800651/ref=zg_mw_g_7842670011_sccl_7/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Algoritmos para viver - A ciência exata das decisões humanasBrian Christian \u0026 Tom Griffiths",
+ "autor": "Brian Christian \u0026 Tom Griffiths",
+ "preco": "R$ 56,98",
+ "link": "amazon.com.br/Algoritmos-para-viver-ci%C3%AAncia-decis%C3%B5es/dp/8535929304/ref=zg_mw_g_7842670011_sccl_8/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Python: Guia prático do básico ao avançado (Cientista de dados Livro 2)",
+ "autor": "Rafael F. V. C. Santos",
+ "preco": "R$ 5,99",
+ "link": "amazon.com.br/Python-pr%C3%A1tico-b%C3%A1sico-avan%C3%A7ado-Cientista-ebook/dp/B07KML8M9L/ref=zg_mw_g_7842670011_sccl_9/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros CuriososAditya Y. Bhargava",
+ "autor": "Aditya Y. Bhargava",
+ "preco": "R$ 65,54",
+ "link": "amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=zg_mw_g_7842670011_sccl_10/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes",
+ "autor": "Nilo Ney Coutinho Menezes",
+ "preco": "R$ 79,74",
+ "link": "amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=zg_mw_g_7842670011_sccl_11/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "O codificador limpo: um código de conduta para programadores profissionaisBob Martin",
+ "autor": "Bob Martin",
+ "preco": "R$ 56,99",
+ "link": "amazon.com.br/codificador-limpo-conduta-programadores-profissionais/dp/8576086476/ref=zg_mw_g_7842670011_sccl_12/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Mãos à obra: aprendizado de máquina com scikit-learn \u0026 tensorflow",
+ "autor": "Aurélien Géron",
+ "preco": "R$ 90,09",
+ "link": "amazon.com.br/M%C3%A3os-obra-aprendizado-scikit-learn-tensorflow/dp/8550803812/ref=zg_mw_g_7842670011_sccl_13/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "O mítico homem-mês: ensaios sobre engenharia de softwareFrederick P. Brooks Jr.",
+ "autor": "Frederick P. Brooks Jr.",
+ "preco": "R$ 84,98",
+ "link": "amazon.com.br/m%C3%ADtico-homem-m%C3%AAs-ensaios-engenharia-software/dp/8550802530/ref=zg_mw_g_7842670011_sccl_14/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos",
+ "autor": "Erich Gamma",
+ "preco": "R$ 162,46",
+ "link": "amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100/ref=zg_mw_g_7842670011_sccl_15/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação",
+ "autor": "Eric Matthes",
+ "preco": "R$ 380,00",
+ "link": "amazon.com.br/Curso-Intensivo-Python-Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o/dp/8575225030/ref=zg_mw_g_7842670011_sccl_16/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil",
+ "autor": "Mary Provinciatto",
+ "preco": "R$ 18,37",
+ "link": "amazon.com.br/Sprint-Erros-acertos-transforma%C3%A7%C3%A3o-cultural-ebook/dp/B087N2LKXB/ref=zg_mw_g_7842670011_sccl_17/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Sangue, suor e pixels: Os dramas, as vitórias e as curiosas histórias por trás dos videogames",
+ "autor": "Jason Schreier",
+ "preco": "R$ 49,90",
+ "link": "amazon.com.br/Sangue-Suor-Pixels-Jason-Schreier/dp/8595082596/ref=zg_mw_g_7842670011_sccl_18/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Pense em Python: Pense Como um Cientista da ComputaçãoAllen B. Downey",
+ "autor": "Allen B. Downey",
+ "preco": "R$ 81,64",
+ "link": "amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081/ref=zg_mw_g_7842670011_sccl_20/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Programação Web com Node.js: Completo, do Front-end ao Back-end",
+ "autor": "Luiz Duarte",
+ "preco": "R$ 14,99",
+ "link": "amazon.com.br/Programa%C3%A7%C3%A3o-Web-com-Node-js-Front-end-ebook/dp/B074RCRKSL/ref=zg_mw_g_7842670011_sccl_21/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Lean Inception: Como alinhar pessoas e construir o produto certo",
+ "autor": "Paulo Caroli",
+ "preco": "R$ 67,89",
+ "link": "amazon.com.br/Lean-Inception-Alinhar-Pessoas-Construir/dp/8594377061/ref=zg_mw_g_7842670011_sccl_22/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Plataforma: a revolução da estratégiaGeoffrey G. Parker",
+ "autor": "Geoffrey G. Parker",
+ "preco": "R$ 50,99",
+ "link": "amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/ref=zg_mw_g_7842670011_sccl_23/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "O Algoritmo Mestre: Como a Busca Pelo Algoritmo de Machine Learning Definitivo Recriará Nosso Mundo",
+ "autor": "Pedro Domingos",
+ "preco": "R$ 79,89",
+ "link": "amazon.com.br/Algoritmo-Mestre-Learning-Definitivo-Recriar%C3%A1/dp/8575225383/ref=zg_mw_g_7842670011_sccl_24/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Python Aplicado: Bolsa de Valores - Um guia para construção de análises e indicadores",
+ "autor": "Paulo Leonardo Vieira Rodrigues",
+ "preco": "R$ 24,90",
+ "link": "amazon.com.br/Python-Aplicado-constru%C3%A7%C3%A3o-an%C3%A1lises-indicadores-ebook/dp/B07QNDC8CL/ref=zg_mw_g_7842670011_sccl_25/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Sangue, suor e pixels: Os dramas, as vitórias e as curiosas histórias por trás dos videogames",
+ "autor": "Jason Schreier",
+ "preco": "R$ 24,87",
+ "link": "amazon.com.br/Sangue-suor-pixels-hist%C3%B3rias-videogames-ebook/dp/B07BWM2LB9/ref=zg_mw_g_7842670011_sccl_27/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Métricas Ágeis: Obtenha melhores resultados em sua equipeRaphael Donaire Albino",
+ "autor": "Raphael Donaire Albino",
+ "preco": "R$ 49,90",
+ "link": "amazon.com.br/M%C3%A9tricas-%C3%81geis-Obtenha-melhores-resultados-ebook/dp/B072MHLBH1/ref=zg_mw_g_7842670011_sccl_29/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Web Scraping com Python: Coletando Mais Dados da web Moderna",
+ "autor": "Ryan Mitchell",
+ "preco": "R$ 82,89",
+ "link": "amazon.com.br/Web-Scraping-Com-Python-Coletando/dp/8575227300/ref=zg_mw_g_7842670011_sccl_30/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Automatize Tarefas Maçantes com Python: Programação Prática Para Verdadeiros Iniciantes",
+ "autor": "",
+ "preco": "",
+ "link": ""
+ },
+ {
+ "titulo": "Eletrônica Para Makers: Um Manual Prático Para o Novo Entusiasta de Eletrônica",
+ "autor": "",
+ "preco": "",
+ "link": ""
+ },
+ {
+ "titulo": "HTML e CSS: projete e construa websites",
+ "autor": "",
+ "preco": "",
+ "link": ""
+ },
+ {
+ "titulo": "Programação em Baixo Nível: C, Assembly e Execução de Programas na Arquitetura Intel 64",
+ "autor": "Igor Zhirkov",
+ "preco": "R$ 109,74",
+ "link": "amazon.com.br/Programa%C3%A7%C3%A3o-Baixo-N%C3%ADvel-Programas-Arquitetura/dp/8575226673/ref=zg_mw_g_7842670011_sccl_1/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes",
+ "autor": "Thomas Nield",
+ "preco": "R$ 54,49",
+ "link": "amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=zg_mw_g_7842670011_sccl_2/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Engenharia de Confiabilidade do Google: Como o Google Administra Seus Sistemas de Produção",
+ "autor": "Betsy Beyer",
+ "preco": "R$ 135,49",
+ "link": "amazon.com.br/Engenharia-Confiabilidade-Google-Administra-Sistemas/dp/8575225170/ref=zg_mw_g_7842670011_sccl_3/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "JavaScript: O Guia Definitivo",
+ "autor": "David Flanagan",
+ "preco": "R$ 225,41",
+ "link": "amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=zg_mw_g_7842670011_sccl_4/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "JavaScript: O Guia Definitivo",
+ "autor": "David Flanagan",
+ "preco": "R$ 187,20",
+ "link": "amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan-ebook/dp/B016N7G8EK/ref=zg_mw_g_7842670011_sccl_5/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Use a cabeça! Python ― 2ª edição",
+ "autor": "Paul Barry",
+ "preco": "R$ 121,44",
+ "link": "amazon.com.br/Use-Cabe%C3%A7a-Python-2%C2%AA-Edi%C3%A7%C3%A3o/dp/8550803405/ref=zg_mw_g_7842670011_sccl_6/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Java efetivo: as melhores práticas para a plataforma Java",
+ "autor": "Joshua Bloch",
+ "preco": "R$ 117,00",
+ "link": "amazon.com.br/Java-Efetivo-Melhores-Pr%C3%A1ticas-Plataforma/dp/8550804622/ref=zg_mw_g_7842670011_sccl_7/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Scrum - Um Guia de Bolso: Um companheiro de viagem inteligente",
+ "autor": "Gunther Verheyen",
+ "preco": "R$ 24,99",
+ "link": "amazon.com.br/Scrum-Bolso-companheiro-viagem-inteligente-ebook/dp/B07TDN99LX/ref=zg_mw_g_7842670011_sccl_8/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Problemas Clássicos de Ciência da Computação com Python",
+ "autor": "David Kopec",
+ "preco": "R$ 68,66",
+ "link": "amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056/ref=zg_mw_g_7842670011_sccl_9/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Entrega Contínua: Como Entregar Software de Forma Rápida e ConfiávelJez Humble",
+ "autor": "Jez Humble",
+ "preco": "R$ 180,00",
+ "link": "amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/ref=zg_mw_g_7842670011_sccl_10/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Pentest em Aplicações web",
+ "autor": "Daniel Moreno",
+ "preco": "R$ 102,49",
+ "link": "amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=zg_mw_g_7842670011_sccl_11/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Matemática com Python: Um Guia PráticoGuilherme A. Barucke Marcondes",
+ "autor": "Guilherme A. Barucke Marcondes",
+ "preco": "R$ 49,60",
+ "link": "amazon.com.br/Matem%C3%A1tica-com-Python-Guia-Pr%C3%A1tico-ebook/dp/B07J32H1DB/ref=zg_mw_g_7842670011_sccl_12/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Aprendendo Node: Usando JavaScript no Servidor",
+ "autor": "Shelley Powers",
+ "preco": "R$ 92,00",
+ "link": "amazon.com.br/Aprendendo-Node-Usando-JavaScript-Servidor/dp/8575225405/ref=zg_mw_g_7842670011_sccl_13/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Use a cabeça! Padrões de projetos (Design Patterns): padrões de projetos",
+ "autor": "Eric Freeman",
+ "preco": "R$ 200,16",
+ "link": "amazon.com.br/Cabe%C3%A7a-Padr%C3%B5es-Projetos-Eric-Freeman/dp/8576081741/ref=zg_mw_g_7842670011_sccl_14/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Pense em Python: Pense como um cientista da computaçãoAllen B. Downey",
+ "autor": "Allen B. Downey",
+ "preco": "R$ 76,00",
+ "link": "amazon.com.br/Pense-Python-como-cientista-computa%C3%A7%C3%A3o-ebook/dp/B07QL2LKBG/ref=zg_mw_g_7842670011_sccl_15/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "1001 videogames para jogar antes de morrer",
+ "autor": "Tony Mott",
+ "preco": "",
+ "link": "amazon.com.br/1001-videogames-jogar-antes-morrer/dp/8575429191/ref=zg_mw_g_7842670011_sccl_16/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Design digital: conceitos e aplicações para websites, animações, vídeos e webgamesFabiana Guerra",
+ "autor": "Fabiana Guerra",
+ "preco": "R$ 60,53",
+ "link": "amazon.com.br/Design-digital-conceitos-aplica%C3%A7%C3%B5es-anima%C3%A7%C3%B5es/dp/8539626969/ref=zg_mw_g_7842670011_sccl_17/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "A Linguagem de Programação GoAlan A. A. Donovan",
+ "autor": "Alan A. A. Donovan",
+ "preco": "R$ 84,80",
+ "link": "amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=zg_mw_g_7842670011_sccl_18/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Como ser um programador melhor: Um manual para programadores que se importam com código",
+ "autor": "Pete Goodliffe",
+ "preco": "R$ 79,20",
+ "link": "amazon.com.br/Como-ser-programador-melhor-programadores-ebook/dp/B07S7F6RCW/ref=zg_mw_g_7842670011_sccl_19/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Criando apps para empresas com Android",
+ "autor": "Luiz Duarte",
+ "preco": "R$ 9,90",
+ "link": "amazon.com.br/Criando-apps-para-empresas-Android-ebook/dp/B01IJQ0AU6/ref=zg_mw_g_7842670011_sccl_20/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores - Edição Revisada e AtualizadaJosé Augusto N. G. Manzano",
+ "autor": "José Augusto N. G. Manzano",
+ "preco": "R$ 58,99",
+ "link": "amazon.com.br/Algoritmos-Desenvolvimento-Programa%C3%A7%C3%A3o-Computadores-Atualizada/dp/8536531452/ref=zg_mw_g_7842670011_sccl_21/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Jornada DevOps: unindo cultura ágil, Lean e tecnologia para entrega de software de qualidade (Jornada Colaborativa)Antonio Muniz",
+ "autor": "Antonio Muniz",
+ "preco": "R$ 28,50",
+ "link": "amazon.com.br/Jornada-DevOps-tecnologia-software-qualidade-ebook/dp/B07S4FFJTJ/ref=zg_mw_g_7842670011_sccl_22/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Shell Script Profissional",
+ "autor": "Aurelio Marinho Jargas",
+ "preco": "R$ 76,99",
+ "link": "amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523/ref=zg_mw_g_7842670011_sccl_24/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Desmistificando algoritmosThomas Cormen",
+ "autor": "Thomas Cormen",
+ "preco": "",
+ "link": "amazon.com.br/Desmistificando-Algoritmos-Thomas-H-Cormen/dp/8535271775/ref=zg_mw_g_7842670011_sccl_25/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Desenvolvimento web com Flask: Desenvolvendo Aplicações web com Python",
+ "autor": "Miguel Grinberg",
+ "preco": "",
+ "link": "amazon.com.br/Desenvolvimento-Web-com-Flask-Desenvolvendo/dp/8575226819/ref=zg_mw_g_7842670011_sccl_27/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "O Programador Pragmático: De Aprendiz a Mestre",
+ "autor": "Andrew Hunt",
+ "preco": "R$ 155,20",
+ "link": "amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90/ref=zg_mw_g_7842670011_sccl_28/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de softwareChad Fowler",
+ "autor": "Chad Fowler",
+ "preco": "R$ 49,90",
+ "link": "amazon.com.br/Programador-Apaixonado-Construindo-carreira-desenvolvimento-ebook/dp/B00VAAM7LE/ref=zg_mw_g_7842670011_sccl_29/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Aprendendo Padrões de Projeto em Python: Tire Proveito da Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver Problemas do Mundo Real em Arquitetura e Design de Software",
+ "autor": "Chetan Giridhar",
+ "preco": "R$ 60,60",
+ "link": "amazon.com.br/Aprendendo-Padr%C3%B5es-Projeto-Python-Arquitetura/dp/8575225235/ref=zg_mw_g_7842670011_sccl_30/139-7253270-3824719?psc=1"
+ },
+ {
+ "titulo": "Ensine Seus Filhos a Programar: Um Guia Amigável aos Pais Para a Programação Python",
+ "autor": "",
+ "preco": "",
+ "link": ""
+ },
+ {
+ "titulo": "PHP Programando com Orientação a Objetos - 4ª Edição: Programando com Orientação a Objetos",
+ "autor": "",
+ "preco": "",
+ "link": ""
+ }
+ ]
