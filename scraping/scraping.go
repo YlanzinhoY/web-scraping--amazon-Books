@@ -10,14 +10,14 @@ import (
 	"github.com/xuri/excelize/v2"
 )
 
-type Livro struct {
-	Titulo string `json:"titulo"`
-	Autor  string `json:"autor"`
-	Preco  string `json:"preco"`
-	Link   string `json:"link"`
+type Book struct {
+	Title string `json:"titulo"`
+	Autor string `json:"autor"`
+	Price string `json:"preco"`
+	Link  string `json:"link"`
 }
 
-var livros []Livro
+var books []Book
 
 func Scraping() {
 
@@ -31,15 +31,15 @@ func Scraping() {
 	c.OnHTML("div.a-column.a-span12.a-text-center._cDEzb_grid-column_2hIsc", func(h *colly.HTMLElement) {
 		link := "amazon.com.br" + h.ChildAttr("a.a-link-normal", "href")
 		title := h.ChildText("span div._cDEzb_p13n-sc-css-line-clamp-1_1Fn1y")
-		preco := h.ChildText("span._cDEzb_p13n-sc-price_3mJ9Z")
-		autor := h.ChildText("div.a-row.a-size-small div._cDEzb_p13n-sc-css-line-clamp-1_1Fn1y")
+		price := h.ChildText("span._cDEzb_p13n-sc-price_3mJ9Z")
+		author := h.ChildText("div.a-row.a-size-small div._cDEzb_p13n-sc-css-line-clamp-1_1Fn1y")
 
 		if title != "" {
-			livros = append(livros, Livro{
-				Titulo: title,
-				Autor:  autor,
-				Preco:  preco,
-				Link:   link,
+			books = append(books, Book{
+				Title: title,
+				Autor: author,
+				Price: price,
+				Link:  link,
 			})
 		}
 
@@ -50,7 +50,7 @@ func Scraping() {
 			}
 		}()
 
-		index, err := f.NewSheet("Livros")
+		index, err := f.NewSheet("Books")
 		if err != nil {
 			fmt.Println(err)
 			return
@@ -63,17 +63,17 @@ func Scraping() {
 		// Set active sheet of the workbook.
 		f.SetActiveSheet(index)
 
-		for i, values := range livros {
+		for i, values := range books {
 
 			row := i + 2
 
-			f.SetCellValue("Livros", fmt.Sprintf("A%d", row), values.Titulo)
-			f.SetCellValue("Livros", fmt.Sprintf("B%d", row), values.Autor)
-			f.SetCellValue("Livros", fmt.Sprintf("C%d", row), values.Preco)
-			f.SetCellValue("Livros", fmt.Sprintf("D%d", row), values.Link)
+			f.SetCellValue("Books", fmt.Sprintf("A%d", row), values.Title)
+			f.SetCellValue("Books", fmt.Sprintf("B%d", row), values.Autor)
+			f.SetCellValue("Books", fmt.Sprintf("C%d", row), values.Price)
+			f.SetCellValue("Books", fmt.Sprintf("D%d", row), values.Link)
 		}
 
-		if err := f.SaveAs("Livros.xlsx"); err != nil {
+		if err := f.SaveAs("Books.xlsx"); err != nil {
 			fmt.Println(err)
 		}
 
@@ -82,8 +82,8 @@ func Scraping() {
 	c.OnHTML("div._cDEzb_p13n-sc-css-line-clamp-2_EWgCb", func(h *colly.HTMLElement) {
 		title := h.Text
 		if title != "" {
-			livros = append(livros, Livro{
-				Titulo: title,
+			books = append(books, Book{
+				Title: title,
 			})
 		}
 	})
@@ -100,13 +100,13 @@ func Scraping() {
 }
 
 func createJson() {
-	data, err := json.MarshalIndent(livros, " ", "")
+	data, err := json.MarshalIndent(books, " ", "")
 
 	if err != nil {
 		log.Fatal()
 	}
 
-	f, _ := os.Create("livros.json")
+	f, _ := os.Create("books.json")
 
 	_, err = f.WriteString(string(data))
 
