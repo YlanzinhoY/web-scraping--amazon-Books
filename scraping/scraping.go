@@ -3,17 +3,17 @@ package scraping
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/xuri/excelize/v2"
 	"log"
 	"os"
 
 	"github.com/gocolly/colly"
-	"github.com/xuri/excelize/v2"
 )
 
 type Book struct {
-	Title string `json:"titulo"`
-	Autor string `json:"autor"`
-	Price string `json:"preco"`
+	Title string `json:"title"`
+	Autor string `json:"author"`
+	Price string `json:"price"`
 	Link  string `json:"link"`
 }
 

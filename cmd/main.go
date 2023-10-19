@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/ylanzinhoy/scraping-de-livros/scraping"
+	"github.com/ylanzinhoy/scraping-de-livros/server"
 )
 
 func main() {
-	scraping.Scraping()
+	server.Server()
 
 }
